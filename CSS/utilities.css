@@ -32,7 +32,7 @@ border-radius: 5px;
     color: #fff;
 }
 .btn-light, .bg-light {
-    background: #fff;
+    background: grey;
     color: #333;
 }
 .btn-outline{
